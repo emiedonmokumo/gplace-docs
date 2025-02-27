@@ -1,6 +1,6 @@
 const Outlook = () => {
     return (
-        <div className="container mx-auto p-8">
+        <div className="container mx-auto p-8 shadow-lg rounded-lg">
             <h1 className="text-2xl font-bold mb-6">API Documentation - Outlook</h1>
             <section className="mt-8">
                 <h2 className="text-2xl font-semibold mb-4">Flow Overview</h2>

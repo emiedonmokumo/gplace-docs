@@ -1,6 +1,6 @@
 const Watchlist = () => {
   return (
-    <div className="p-6 max-w-4xl mx-auto bg-white shadow-lg rounded-lg">
+    <div className="p-6 bg-white shadow-lg rounded-lg">
       <h1 className="text-2xl font-bold mb-4">Watchlist API Documentation</h1>
       
       <section className="mb-6">
